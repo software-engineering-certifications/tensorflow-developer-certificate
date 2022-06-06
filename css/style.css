@@ -1,0 +1,48 @@
+body{
+margin:0%;
+padding:0%;
+
+}
+/*header
+---------------------------------*/
+.navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link {
+    color: #030303;
+     padding: 12px;
+}
+
+
+
+
+.navbar-nav { margin-left: 30%;}
+
+
+
+/* Footer
+---------------------------------*/
+
+.mainfooter {
+    background: #062542;
+    
+    
+}
+
+.main-rahul{
+    color:#dde0e2 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
